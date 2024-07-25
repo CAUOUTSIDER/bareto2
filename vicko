@@ -452,12 +452,67 @@ https://vbchcdedge03.national-linear-ddtc-tve.tve.cox.net/SYFYD_HD_CX_DDTVE_5862
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
-#EXTINF:-1 tvg-id="Thrill - [Channel 19].id;Thrill - [Channel 19].id" tvg-logo="https://i.ibb.co.com/zNwFf6z/thrill.png", Thrill 
-#EXTGRP: film
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png",History Asia
+https://melon-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC Earth Asia
+https://melon-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="NationalGeographic" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_450.png",National Geographic
+https://melon-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-name="NationalGeographicWildIndonesia.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_463.png" group-title="Knowledge & Documentary",Nat Geo Wild
+https://melon-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="DiscoveryChannel" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Knowledge & Documentary",Discovery Channel 
+#http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryAsia" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1280px-Discovery_Asia_logo.svg.png" group-title="Knowledge & Documentary",Discovery Asia
+#http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/02.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch302)/index.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="Knowledge & Documentary",Animal Planet 
+https://kusnadipepenk.github.io/ntn/animal.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="Knowledge & Documentary",TRVL CH
+https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
+
+#EXTINF:-1 tvg-id="DMAX" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="Knowledge & Documentary",DMAX TV 
+http://edge.linknetott.swiftserve.com/channelgroup4/cg428production/ch347/02.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Knowledge & Documentary" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501324_tvchannels_v1.jpg", Dens Learning & Knowledge
+http://210.210.155.35/x6bnqe/s/s36/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Dens_Learning_n_Knowledge
+https://op-group1-swiftservesd-1.dens.tv/s/s36/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Dens_Learning_n_Knowledge
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/097b4bac30f2eb60f13cfe548b188067.png" group-title="Knowledge & Documentary",Discovery Science*
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/discien.m3u8
+
+#EXTINF:-1 tvg-id="NASATVPublic.us" url-tvg="" tvg-country="US" tvg-language="English" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="Knowledge & Documentary",NASA TV 
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XD8Vr0d.jpg" group-title="Knowledge & Documentary",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="Knowledge & Documentary", Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Knowledge & Documentary", Love Nature 4K*
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/KwdwK84/wbtv.png" group-title="● MOVIES ●", WB TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
